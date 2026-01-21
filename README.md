@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=5865F2&width=435&lines=Hello%2C+I'm+Aditya+Tiwari;Developer+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+I'm+Aditya+Tiwari;Developer+%7C+Learner+%7C+Problem+Solver" alt="Typing SVG"/>
 </a>
 
 ---
@@ -57,4 +57,4 @@ You can find my writing and thoughts on tech, systems, and learning at:
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" alt="footer"/>

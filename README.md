@@ -20,15 +20,14 @@ I work on ideas with intention and write code with clarity.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Major Tech Stack
+[![Major Tech Stack](https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,express,mongodb,mysql,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,html,css,js,nodejs,react,express,git,github,mysql,mongodb,vscode,linux,figma)](https://skillicons.dev)
 
 ---
 
-### 📚 Currently Learning
-
-[![Learning](https://skillicons.dev/icons?i=go,rust,docker,aws)](https://skillicons.dev)
+### 📚 Additional Tools & Frameworks
+[![Additional Tools](https://skillicons.dev/icons?i=cs,html,css,linux,vscode,figma)](https://skillicons.dev)
 
 ---
 

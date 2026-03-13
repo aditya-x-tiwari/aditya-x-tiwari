@@ -46,7 +46,7 @@ You can find my writing and thoughts on tech, systems, and learning at:
 ### 📫 Connect With Me
 
 <div>
-    <a href="https://in.linkedin.com/in/aditya-tiwari-97476b312">
+    <a href="https://in.linkedin.com/in/aditya-x-tiwari">
         <img src="https://img.icons8.com/ios-filled/50/5865F2/linkedin.png" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="mailto:adityatiwari.py@gmail.com">
